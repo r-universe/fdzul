@@ -1,8 +1,32 @@
 [
   {
+    "package": "boldenr",
+    "url": "https://github.com/fdzul/boldenr",
+    "via": ["deneggs"],
+    "from": "deneggs"
+  },
+  {
     "package": "rgeomex",
     "url": "https://github.com/fdzul/rgeomex",
     "via": ["boldenr"],
     "from": "boldenr"
+  },
+  {
+    "package": "rgeomex",
+    "url": "https://github.com/fdzul/rgeomex",
+    "via": ["deneggs"],
+    "from": "deneggs"
+  },
+  {
+    "package": "rgeomex",
+    "url": "https://github.com/fdzul/rgeomex",
+    "via": ["deneggs", "boldenr"],
+    "from": "deneggs"
+  },
+  {
+    "package": "similiars",
+    "url": "https://github.com/davidsjoberg/similiars",
+    "via": ["deneggs"],
+    "from": "deneggs"
   }
 ]

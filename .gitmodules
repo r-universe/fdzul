@@ -28,3 +28,8 @@
 	url = https://github.com/fdzul/dendata
 	shallow = true
 	registered = true
+[submodule "similiars"]
+	path = similiars
+	url = https://github.com/davidsjoberg/similiars
+	shallow = true
+	registered = false
