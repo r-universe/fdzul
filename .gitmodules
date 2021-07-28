@@ -1,5 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/fdzul/universe
 	shallow = true
 	branch = HEAD
+[submodule "denhotspots"]
+	path = denhotspots
+	url = https://github.com/fdzul/denhotspots
+	shallow = true
+	registered = true
+[submodule "boldenr"]
+	path = boldenr
+	url = https://github.com/fdzul/boldenr
+	shallow = true
+	registered = true
+[submodule "rgeomex"]
+	path = rgeomex
+	url = https://github.com/fdzul/rgeomex
+	shallow = true
+	registered = true
+[submodule "deneggs"]
+	path = deneggs
+	url = https://github.com/fdzul/deneggs
+	shallow = true
+	registered = true
+[submodule "dendata"]
+	path = dendata
+	url = https://github.com/fdzul/dendata
+	shallow = true
+	registered = true
