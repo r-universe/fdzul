@@ -13,11 +13,6 @@
 	url = https://github.com/fdzul/boldenr
 	shallow = true
 	registered = true
-[submodule "rgeomex"]
-	path = rgeomex
-	url = https://github.com/fdzul/rgeomex
-	shallow = true
-	registered = true
 [submodule "deneggs"]
 	path = deneggs
 	url = https://github.com/fdzul/deneggs
