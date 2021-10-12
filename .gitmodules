@@ -8,19 +8,9 @@
 	url = https://github.com/fdzul/denhotspots
 	shallow = true
 	registered = true
-[submodule "boldenr"]
-	path = boldenr
-	url = https://github.com/fdzul/boldenr
-	shallow = true
-	registered = true
 [submodule "rgeomex"]
 	path = rgeomex
 	url = https://github.com/fdzul/rgeomex
-	shallow = true
-	registered = true
-[submodule "deneggs"]
-	path = deneggs
-	url = https://github.com/fdzul/deneggs
 	shallow = true
 	registered = true
 [submodule "dendata"]
