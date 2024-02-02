@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/fdzul/universe
+	url = https://github.com/fdzul/fdzul.r-universe.dev
 	branch = HEAD
 [submodule "boldenr"]
 	path = boldenr
