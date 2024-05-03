@@ -14,6 +14,12 @@
 [submodule "denhotspots"]
 	path = denhotspots
 	url = https://github.com/fdzul/denhotspots
+[submodule "densnv"]
+	path = densnv
+	url = https://fdzul.github.io/densnv
+[submodule "popmex"]
+	path = popmex
+	url = https://fdzul.github.io/popmex
 [submodule "rgeomex"]
 	path = rgeomex
 	url = https://github.com/fdzul/rgeomex
