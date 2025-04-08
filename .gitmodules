@@ -5,9 +5,7 @@
 [submodule "boldenr"]
 	path = boldenr
 	url = https://github.com/fdzul/boldenr
-[submodule "dendata"]
-	path = dendata
-	url = https://github.com/fdzul/dendata
+	registered = false
 [submodule "deneggs"]
 	path = deneggs
 	url = https://github.com/fdzul/deneggs
@@ -16,10 +14,10 @@
 	url = https://github.com/fdzul/denhotspots
 [submodule "densnv"]
 	path = densnv
-	url = https://fdzul.github.io/densnv
+	url = https://github.com/fdzul/densnv
 [submodule "popmex"]
 	path = popmex
-	url = https://fdzul.github.io/popmex
+	url = https://github.com/fdzul/popmex
 [submodule "rgeomex"]
 	path = rgeomex
 	url = https://github.com/fdzul/rgeomex
