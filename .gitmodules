@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/fdzul/fdzul.r-universe.dev
 	branch = HEAD
-[submodule "boldenr"]
-	path = boldenr
-	url = https://github.com/fdzul/boldenr
-	registered = false
 [submodule "deneggs"]
 	path = deneggs
 	url = https://github.com/fdzul/deneggs
@@ -21,7 +17,3 @@
 [submodule "rgeomex"]
 	path = rgeomex
 	url = https://github.com/fdzul/rgeomex
-[submodule "similiars"]
-	path = similiars
-	url = https://github.com/davidsjoberg/similiars
-	registered = false
