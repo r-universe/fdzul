@@ -2,18 +2,33 @@
 	path = .registry
 	url = https://github.com/fdzul/fdzul.r-universe.dev
 	branch = HEAD
+[submodule "boldenr"]
+	path = boldenr
+	url = https://github.com/fdzul/boldenr
 [submodule "deneggs"]
 	path = deneggs
 	url = https://github.com/fdzul/deneggs
+[submodule "denguedatasets"]
+	path = denguedatasets
+	url = https://github.com/fdzul/denguedatasets
 [submodule "denhotspots"]
 	path = denhotspots
 	url = https://github.com/fdzul/denhotspots
 [submodule "densnv"]
 	path = densnv
 	url = https://github.com/fdzul/densnv
+[submodule "knox"]
+	path = knox
+	url = https://github.com/fdzul/knox
 [submodule "popmex"]
 	path = popmex
 	url = https://github.com/fdzul/popmex
+[submodule "ppmData"]
+	path = ppmData
+	url = https://github.com/skiptoniam/ppmData
 [submodule "rgeomex"]
 	path = rgeomex
 	url = https://github.com/fdzul/rgeomex
+[submodule "similiars"]
+	path = similiars
+	url = https://github.com/davidsjoberg/similiars
