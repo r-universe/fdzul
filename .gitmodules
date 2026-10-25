@@ -8,6 +8,9 @@
 [submodule "deneggs"]
 	path = deneggs
 	url = https://github.com/fdzul/deneggs
+[submodule "denepikit"]
+	path = denepikit
+	url = https://github.com/fdzul/denepikit
 [submodule "denguedatasets"]
 	path = denguedatasets
 	url = https://github.com/fdzul/denguedatasets
@@ -17,6 +20,12 @@
 [submodule "densnv"]
 	path = densnv
 	url = https://github.com/fdzul/densnv
+[submodule "epifeatures"]
+	path = epifeatures
+	url = https://github.com/fdzul/epifeatures
+[submodule "ewarsmx"]
+	path = ewarsmx
+	url = https://github.com/fdzul/ewarsmx
 [submodule "knox"]
 	path = knox
 	url = https://github.com/fdzul/knox
@@ -32,3 +41,9 @@
 [submodule "similiars"]
 	path = similiars
 	url = https://github.com/davidsjoberg/similiars
+[submodule "sinave"]
+	path = sinave
+	url = https://github.com/fdzul/sinave
+[submodule "vectoRcontrol"]
+	path = vectoRcontrol
+	url = https://github.com/fdzul/vectoRcontrol
