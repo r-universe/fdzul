@@ -5,6 +5,9 @@
 [submodule "boldenr"]
 	path = boldenr
 	url = https://github.com/fdzul/boldenr
+[submodule "climex"]
+	path = climex
+	url = https://github.com/fdzul/climex
 [submodule "deneggs"]
 	path = deneggs
 	url = https://github.com/fdzul/deneggs
